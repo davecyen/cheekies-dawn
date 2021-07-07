@@ -4,14 +4,7 @@
       "type": "main-page"
     },
     "form": {
-<<<<<<< HEAD
-      "type": "contact-form",
-      "settings": {
-        "heading": ""
-      }
-=======
       "type": "contact-form"
->>>>>>> dc9d12f (first commit)
     }
   },
   "order": [

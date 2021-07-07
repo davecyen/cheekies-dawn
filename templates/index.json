@@ -16,23 +16,12 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-<<<<<<< HEAD
-            "button_link_1": "shopify:\/\/collections\/all",
-=======
             "button_link_1": "shopify://collections/all",
->>>>>>> dc9d12f (first commit)
             "button_label_2": ""
           }
         }
       },
-<<<<<<< HEAD
-      "block_order": [
-        "heading",
-        "button"
-      ]
-=======
       "block_order": ["heading", "button"]
->>>>>>> dc9d12f (first commit)
     },
     "featured_products": {
       "type": "featured-collection",
