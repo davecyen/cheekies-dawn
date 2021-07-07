@@ -44,10 +44,10 @@
       "item_added": "Betettük a terméket a kosárba"
     },
     "share": {
-      "copy_to_clipboard": "Hivatkozás másolása",
+      "copy_to_clipboard": "URL-cím vágólapra másolása",
       "share": "Megosztás",
-      "share_url": "Hivatkozás",
-      "success_message": "A vágólapra másoltuk a hivatkozást."
+      "share_url": "URL-cím megosztása",
+      "success_message": "A vágólapra másoltuk az URL-címet."
     }
   },
   "date_formats": {
@@ -72,8 +72,7 @@
     "next_slide": "Következő dia",
     "previous_slide": "Előző dia",
     "loading": "Betöltés folyamatban…",
-    "of": "/",
-    "skip_to_product_info": "Kihagyás, és ugrás a termékadatokra"
+    "of": "/"
   },
   "blogs": {
     "article": {
@@ -133,12 +132,6 @@
         "pick_up_unavailable_at_html": "Személyesen egyelőre nem vehető át itt: <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Nem sikerült betölteni az átvehetőségi adatokat",
         "refresh": "Frissítés"
-      },
-      "media": {
-        "open_featured_media": "Kiemelt médiafájl megnyitása galérianézetben",
-        "open_media": "{{ index }}. médiafájl megnyitása galérianézetben",
-        "play_model": "Lejátszás a 3D-megjelenítőben",
-        "play_video": "Videó lejátszása"
       }
     },
     "modal": {

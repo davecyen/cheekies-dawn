@@ -16,12 +16,31 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
+<<<<<<< HEAD
             "button_link_1": "shopify://collections/all",
+=======
+<<<<<<< HEAD
+            "button_link_1": "shopify:\/\/collections\/all",
+=======
+            "button_link_1": "shopify://collections/all",
+>>>>>>> dc9d12f (first commit)
+>>>>>>> 6d42255 (Merged upstream)
             "button_label_2": ""
           }
         }
       },
+<<<<<<< HEAD
       "block_order": ["heading", "button"]
+=======
+<<<<<<< HEAD
+      "block_order": [
+        "heading",
+        "button"
+      ]
+=======
+      "block_order": ["heading", "button"]
+>>>>>>> dc9d12f (first commit)
+>>>>>>> 6d42255 (Merged upstream)
     },
     "featured_products": {
       "type": "featured-collection",

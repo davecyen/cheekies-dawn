@@ -68,7 +68,7 @@
           "options__3": {
             "label": "Zvýraznění 2"
           },
-          "label": "Barevné schéma odznaku Sleva"
+          "label": "Systém barev odznaku Sleva"
         },
         "sold_out_badge_color_scheme": {
           "options__1": {
@@ -77,28 +77,7 @@
           "options__2": {
             "label": "Inverze"
           },
-          "label": "Barevné schéma odznaku Vyprodáno"
-        },
-        "header__1": {
-          "content": "Odznaky"
-        },
-        "header__2": {
-          "content": "Dekorativní prvky"
-        },
-        "accent_icons": {
-          "options__1": {
-            "label": "Zvýraznění 1"
-          },
-          "options__2": {
-            "label": "Zvýraznění 2"
-          },
-          "options__3": {
-            "label": "Tlačítko s obrysem"
-          },
-          "options__4": {
-            "label": "Text"
-          },
-          "label": "Zvýraznit ikony"
+          "label": "Systém barev odznaku Vyprodáno"
         }
       }
     },
@@ -1072,7 +1051,7 @@
       }
     },
     "main-product": {
-      "name": "Informace o produktu",
+      "name": "Produkt",
       "blocks": {
         "text": {
           "name": "Text",
@@ -1138,12 +1117,6 @@
             "header": {
               "content": "Sdílet",
               "info": "Když publikujete odkaz vedoucí z online obchodu na sociální sítě, zobrazí se propagovaný obrázek pro danou stránku. [Zjistit více](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images). Zadejte pro svůj online obchod název a popis. [Zjistit více](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
-            },
-            "featured_image_info": {
-              "content": "Pokud v příspěvcích na sociálních sítích uvedete odkaz, jako náhledový obrázek se zobrazí propagovaný obrázek stránky. [Zjistit více](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)."
-            },
-            "title_info": {
-              "content": "U náhledového obrázku je uveden také název a popis obchodu. [Zjistit více](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
             }
           }
         },
@@ -1161,7 +1134,7 @@
               "label": "Obsah karty ze stránky"
             },
             "icon": {
-              "label": "Ikona",
+              "label": "Ikona karty",
               "options__1": {
                 "label": "Žádná"
               },
@@ -1256,9 +1229,6 @@
         },
         "enable_video_looping": {
           "label": "Povolit smyčky videa"
-        },
-        "enable_sticky_info": {
-          "label": "Na velkých obrazovkách povolit plovoucí informace o produktu"
         }
       }
     },
@@ -1480,13 +1450,10 @@
           "label": "Zobrazit druhý obrázek po najetí myší/prstem"
         },
         "add_image_padding": {
-          "label": "Přidat vnitřní okraj obrázku"
+          "label": "Přidat vnitřní okraj"
         },
         "show_vendor": {
           "label": "Zobrazit dodavatele"
-        },
-        "paragraph__1": {
-          "content": "Dynamická doporučení využívají informace o objednávkách a produktech, aby se postupem času měnila a vylepšovala. [Zjistit více](https://help.shopify.com/en/themes/development/recommended-products)"
         }
       }
     },
@@ -1558,17 +1525,6 @@
       },
       "presets": {
         "name": "Formát RTF"
-      }
-    },
-    "apps": {
-      "name": "Aplikace",
-      "settings": {
-        "include_margins": {
-          "label": "Nastavit okraje sekce podle motivu"
-        }
-      },
-      "presets": {
-        "name": "Aplikace"
       }
     }
   }

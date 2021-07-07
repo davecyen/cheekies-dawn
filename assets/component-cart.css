@@ -139,12 +139,7 @@ cart-items {
 }
 
 .cart__dynamic-checkout-buttons {
-	max-width: 36rem;
-	margin: 0 auto;
-}
-
-.cart__blocks > * + * {
-	margin-top: 1rem;
+	margin-top: 0;
 }
 
 .cart__dynamic-checkout-buttons div[role='button'] {
@@ -179,6 +174,10 @@ cart-items {
 	.cart__update-button {
 		margin-bottom: 0;
 		margin-right: 0.8rem;
+	}
+
+	.cart__dynamic-checkout-buttons {
+		margin-top: 1rem;
 	}
 
 	.tax-note {
