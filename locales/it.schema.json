@@ -68,7 +68,7 @@
           "options__3": {
             "label": "Elemento in risalto 2"
           },
-          "label": "Schema di colori per badge vendita"
+          "label": "Sistema di colori per badge vendita"
         },
         "sold_out_badge_color_scheme": {
           "options__1": {
@@ -77,28 +77,7 @@
           "options__2": {
             "label": "Inverso"
           },
-          "label": "Schema di colori per badge esaurito"
-        },
-        "header__1": {
-          "content": "Badge"
-        },
-        "header__2": {
-          "content": "Elementi decorativi"
-        },
-        "accent_icons": {
-          "options__1": {
-            "label": "Elemento in risalto 1"
-          },
-          "options__2": {
-            "label": "Elemento in risalto 2"
-          },
-          "options__3": {
-            "label": "Contorno pulsante"
-          },
-          "options__4": {
-            "label": "Testo"
-          },
-          "label": "Icone in risalto"
+          "label": "Sistema di colori per badge esaurito"
         }
       }
     },
@@ -1072,7 +1051,7 @@
       }
     },
     "main-product": {
-      "name": "Informazioni di prodotto",
+      "name": "Prodotto",
       "blocks": {
         "text": {
           "name": "Testo",
@@ -1138,12 +1117,6 @@
             "header": {
               "content": "Condividi",
               "info": "Quando pubblichi sui social media un link del tuo negozio online, viene mostrata l'immagine in evidenza della pagina. [Maggiori informazioni](https://help.shopify.com/it/manual/online-store/images/showing-social-media-thumbnail-images). Imposta un titolo e una descrizione per il tuo negozio online. [Maggiori informazioni](https://help.shopify.com/it/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
-            },
-            "featured_image_info": {
-              "content": "Se includi un link in post sui social media, l'immagine in evidenza della pagina verrà mostrata come immagine di anteprima. [Maggiori informazioni](https://help.shopify.com/it/manual/online-store/images/showing-social-media-thumbnail-images)."
-            },
-            "title_info": {
-              "content": "Insieme all'immagine di anteprima sono inclusi un titolo e una descrizione del negozio. [Maggiori informazioni](https://help.shopify.com/it/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
             }
           }
         },
@@ -1161,7 +1134,7 @@
               "label": "Contenuto della scheda dalla pagina"
             },
             "icon": {
-              "label": "Icona",
+              "label": "Icona della scheda",
               "options__1": {
                 "label": "Nessuna"
               },
@@ -1256,9 +1229,6 @@
         },
         "enable_video_looping": {
           "label": "Abilita la riproduzione in loop dei video"
-        },
-        "enable_sticky_info": {
-          "label": "Abilita le informazioni di prodotto fisse su schermi grandi"
         }
       }
     },
@@ -1480,13 +1450,10 @@
           "label": "Mostra la seconda immagine al passaggio del mouse"
         },
         "add_image_padding": {
-          "label": "Aggiungi spaziatura immagine"
+          "label": "Aggiungi spaziatura"
         },
         "show_vendor": {
           "label": "Mostra fornitore"
-        },
-        "paragraph__1": {
-          "content": "Le raccomandazioni dinamiche utilizzano i dati di ordini e prodotti per cambiare e migliorare nel tempo. [Maggiori informazioni](https://shopify.dev/tutorials/develop-theme-recommended-products)"
         }
       }
     },
@@ -1558,17 +1525,6 @@
       },
       "presets": {
         "name": "Rich text"
-      }
-    },
-    "apps": {
-      "name": "App",
-      "settings": {
-        "include_margins": {
-          "label": "Rendi i margini della sezione uguali al tema"
-        }
-      },
-      "presets": {
-        "name": "App"
       }
     }
   }

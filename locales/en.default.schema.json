@@ -157,6 +157,7 @@
           "info": "https://vimeo.com/shopify"
         }
       }
+<<<<<<< HEAD
     },
     "favicon": {
       "name": "Favicon",
@@ -166,6 +167,8 @@
           "info": "Will be scaled down to 32 x 32px"
         }
       }
+=======
+>>>>>>> dc9d12f (first commit)
     }
   },
   "sections": {

@@ -44,10 +44,10 @@
       "item_added": "Item ditambahkan ke keranjang Anda"
     },
     "share": {
-      "copy_to_clipboard": "Salin tautan",
+      "copy_to_clipboard": "Salin URL ke clipboard",
       "share": "Bagikan",
-      "share_url": "Tautan",
-      "success_message": "Tautan disalin ke clipboard!"
+      "share_url": "Bagikan URL",
+      "success_message": "Disalin ke clipboard!"
     }
   },
   "date_formats": {
@@ -72,8 +72,7 @@
     "next_slide": "Geser kanan",
     "previous_slide": "Geser kiri",
     "loading": "Memuat...",
-    "of": "dari",
-    "skip_to_product_info": "Langsung ke informasi produk"
+    "of": "dari"
   },
   "blogs": {
     "article": {
@@ -133,12 +132,6 @@
         "pick_up_unavailable_at_html": "Saat ini, pengambilan tidak dapat dilakukan di <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Tidak dapat memuat ketersediaan pengambilan",
         "refresh": "Muat ulang"
-      },
-      "media": {
-        "open_featured_media": "Buka media unggulan di tampilan galeri",
-        "open_media": "Buka media {{ index }} di tampilan galeri",
-        "play_model": "Putar Penampil 3D",
-        "play_video": "Putar video"
       }
     },
     "modal": {
