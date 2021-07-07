@@ -71,11 +71,10 @@
     },
     "next_slide": "Bild till höger",
     "previous_slide": "Bild till vänster",
-    "loading": "Laddar ..."
+    "loading": "Laddar ...",
       "read_more": "Läs mer",
         "one": "{{ count }} kommentar",
-        "other": "{{ count }} kommentarer"
-      },
+        "other": "{{ count }} kommentarer",
       "moderated": "Notera att kommentarer behöver godkännas innan de publiceras.",
       "comment_form_title": "Lämna en kommentar",
       "name": "Namn",
@@ -86,7 +85,6 @@
       "share": "Dela denna artikel",
       "success": "Din kommentar har lagts upp! Tack!",
       "success_moderated": "Din kommentar har lagts upp. Vi kommer publicera den lite senare, eftersom att bloggen är modererad."
-    }
   },
   "onboarding": {
     "product_title": "Exempel på produktnamn",

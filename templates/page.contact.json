@@ -4,18 +4,10 @@
       "type": "main-page"
     },
     "form": {
-<<<<<<< HEAD
-      "type": "contact-form"
-=======
-<<<<<<< HEAD
       "type": "contact-form",
       "settings": {
         "heading": ""
       }
-=======
-      "type": "contact-form"
->>>>>>> dc9d12f (first commit)
->>>>>>> 6d42255 (Merged upstream)
     }
   },
   "order": [
